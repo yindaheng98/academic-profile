@@ -45,35 +45,13 @@ Mengyang Liu, Anran Tang, Huitian Wang, Lin Shen, Yunhan Chang, Guangxing Cai, *
 
 # Contest
 
-<dl>
-
-<dt>TensorRT Hackathon 2022, Winner Prize</dt>
-<dd>NVIDIA & Alibaba Cloud TIANCHI</dd>
-<dd>2022.03 - 2022.5</dd>
-
-<dt>TensorRT Hackathon 2021, Ranking 4/48</dt>
-<dd>NVIDIA & Alibaba Cloud TIANCHI</dd>
-<dd>2021.03 - 2021.5</dd>
-
-<dt>National College Mathematical Contest in Modeling, 2nd Prize(National)</dt>
-<dd>2018.09</dd>
-
-<dt>9th National College Mathematical Contest, 2nd Prize(Provincial)</dt>
-<dd>2017.11</dd>
-
-<dt>14th Jiangsu College Mathematical Contest, 1st Prize</dt>
-<dd>2017.05</dd>
-
-</dl>
+* TensorRT Hackathon 2022, **Winner Prize**, <small>by NVIDIA & Alibaba Cloud TIANCHI, 2022.03 - 2022.5</small>
+* TensorRT Hackathon 2021, **Ranking 4/48**, <small>by NVIDIA & Alibaba Cloud TIANCHI, 2021.03 - 2021.5</small>
+* National College Mathematical Contest in Modeling, **2nd Prize(National)**, <small>2018.09</small>
+* 9th National College Mathematical Contest, **2nd Prize(Provincial)**, <small>2017.11</small>
+* 14th Jiangsu College Mathematical Contest, **1st Prize**, <small>2017.05</small>
 
 # Honors & Awards
 
-<dl>
-
-<dt>Outstanding Graduate of Jiangnan University</dt>
-<dd>2020</dd>
-
-<dt>China National Scholarship (2016-2017)</dt>
-<dd>2017.11</dd>
-
-</dl>
+* Outstanding Graduate of Jiangnan University, <small>2020.06</small>
+* China National Scholarship (2016-2017), <small>2017.11</small>
