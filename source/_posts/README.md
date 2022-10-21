@@ -6,3 +6,39 @@ academia: true
 ---
 
 # About Me
+
+I am a graduate student at the Key Laboratory of Computer Network and Information Integration (Southeast University), advised by Prof. Fang Dong. 
+I obtained my Bachelor's degree from Jiangnan University in 2020. 
+My research interests include optimization and application of video super-resolution.
+
+Currently, my research focuses on the distributed acceleration of super-resolution inference for live video streaming applications in an edge computing environment.
+In this scenario, the video super-resolution model should be able of performing inference in real-time (>30FPS) with low latency (<200ms) on the support of distributed low-power computing devices, while ensuring smooth playback in the dynamic environment with varying bandwidth between computing devices.
+To achieve this, various optimization strategies should be utilized, including:
+
+1. Modification of model structure for better parallelism
+2. Leverage information in compressed video for smooth playback
+3. Compression of parameters and intermediate features for bandwidth saving
+4. Variable frame sequence length for dynamic bandwidth adaption
+
+My goal is to build systems that can obtain high-resolution live video with low bandwidth and computational cost, as well as investigate the nature of AI system stability and even abstract chaotic systems in practice.
+
+# Education Experience
+
+<dl>
+<dt><img align="left" height="100" hspace="10" src="/img/SEUlogo.png"></dt>
+<dt>Southeast University, Nanjing, China</dt>
+<dd>August 2020 - July 2023</dd>
+<dd>B.Sc. in Computer Science and Engineering.</dd>
+<dd>GPA: 81.69.</dd>
+<dt><img align="left" height="100" hspace="10" src="/img/JNUlogo.png"></dt>
+<dt>Jiangnan University, Wuxi, China</dt>
+<dd>August 2016 - July 2020</dd>
+<dd>B.E. in IoT Engineering</dd>
+<dd>GPA: 3.59, <strong>rank 9/141</strong>.</dd>
+</dl>
+
+# Publications
+
+Xiaolin Guo, Fang Dong, Dian Shen, Zhaowu Huang, Zhenyang Ni, Yulong Jiang, **Daheng Yin**, "Exploiting the computational path diversity with in-network computing for MEC," 2022 19th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON), 2022, pp. 1-9.
+
+Mengyang Liu, Anran Tang, Huitian Wang, Lin Shen, Yunhan Chang, Guangxing Cai, **Daheng Yin**, Fang Dong, Wei Zhao, "Accelerating Multi-Object Tracking in Edge Computing Environment with Time-Spatial Optimization," 2021 Ninth International Conference on Advanced Cloud and Big Data (CBD), 2022, pp. 279-284, doi: 10.1109/CBD54617.2021.00055.
