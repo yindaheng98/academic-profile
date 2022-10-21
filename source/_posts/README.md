@@ -39,6 +39,41 @@ My goal is to build systems that can obtain high-resolution live video with low 
 
 # Publications
 
-Xiaolin Guo, Fang Dong, Dian Shen, Zhaowu Huang, Zhenyang Ni, Yulong Jiang, **Daheng Yin**, "Exploiting the computational path diversity with in-network computing for MEC," 2022 19th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON), 2022, pp. 1-9.
+Xiaolin Guo, Fang Dong, Dian Shen, Zhaowu Huang, Zhenyang Ni, Yulong Jiang, **Daheng Yin**, "*Exploiting the computational path diversity with in-network computing for MEC*," 2022 19th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON), 2022, pp. 1-9.
 
-Mengyang Liu, Anran Tang, Huitian Wang, Lin Shen, Yunhan Chang, Guangxing Cai, **Daheng Yin**, Fang Dong, Wei Zhao, "Accelerating Multi-Object Tracking in Edge Computing Environment with Time-Spatial Optimization," 2021 Ninth International Conference on Advanced Cloud and Big Data (CBD), 2022, pp. 279-284, doi: 10.1109/CBD54617.2021.00055.
+Mengyang Liu, Anran Tang, Huitian Wang, Lin Shen, Yunhan Chang, Guangxing Cai, **Daheng Yin**, Fang Dong, Wei Zhao, "*Accelerating Multi-Object Tracking in Edge Computing Environment with Time-Spatial Optimization*," 2021 Ninth International Conference on Advanced Cloud and Big Data (CBD), 2022, pp. 279-284, doi: 10.1109/CBD54617.2021.00055.
+
+# Contest
+
+<dl>
+
+<dt>TensorRT Hackathon 2022, Winner Prize</dt>
+<dd>NVIDIA & Alibaba Cloud TIANCHI</dd>
+<dd>2022.03 - 2022.5</dd>
+
+<dt>TensorRT Hackathon 2021, Ranking 4/48</dt>
+<dd>NVIDIA & Alibaba Cloud TIANCHI</dd>
+<dd>2021.03 - 2021.5</dd>
+
+<dt>National College Mathematical Contest in Modeling, 2nd Prize(National)</dt>
+<dd>2018.09</dd>
+
+<dt>9th National College Mathematical Contest, 2nd Prize(Provincial)</dt>
+<dd>2017.11</dd>
+
+<dt>14th Jiangsu College Mathematical Contest, 1st Prize</dt>
+<dd>2017.05</dd>
+
+</dl>
+
+# Honors & Awards
+
+<dl>
+
+<dt>Outstanding Graduate of Jiangnan University</dt>
+<dd>2020</dd>
+
+<dt>China National Scholarship (2016-2017)</dt>
+<dd>2017.11</dd>
+
+</dl>

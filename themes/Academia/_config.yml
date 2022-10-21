@@ -3,7 +3,7 @@ favicon: /img/favicon.ico
 avatar: /img/avatar.jpg
 # if author sets in hexo_config, this string doesn't work
 author: 'Howard Yin'
-author_bio: "Video Live & Super-resolution & Edge Computing"
+author_bio: "Southeast University"
 
 since: 2020
 
