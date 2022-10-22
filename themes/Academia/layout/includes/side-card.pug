@@ -7,12 +7,12 @@
             p.author-bio= theme.author_bio
         .author-links
             button.btn.m-social-links Links
-            if(theme.social.enable)
+            if(theme.e_social.enable)
                 ul.social-icons
-                    each url, icon in theme.social_links
+                    each value, name in theme.e_social_links
                         li
-                            a.social-icon(href=url target="_blank")
-                                i(class=icon aria-hidden="true")
+                            a.social-icon(href=url_for(trim(value.split('||')[0])) target="_blank")
+                                i(class=trim(value.split('||')[1]) aria-hidden="true")
             if(theme.e_social.enable)
                 ul.social-links
                     each value, name in theme.e_social_links
