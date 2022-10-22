@@ -47,8 +47,13 @@ e_social_links:
 # CV download link
 cv_dl:
   enable: true
-  dir: /attaches/CV.pdf
+  dir: /attaches/CV_DahengYin.pdf
   description: My CV in PDF.
+# 中文CV下载链接
+cv_dl_zh:
+  enable: true
+  dir: /attaches/简历_尹达恒.pdf
+  description: 我的中文简历PDF.
 
 # Box-shadow
 # display box-shadow on page or not

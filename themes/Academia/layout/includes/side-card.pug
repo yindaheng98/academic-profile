@@ -24,3 +24,7 @@
             a.cv-links(href=url_for(theme.cv_dl.dir) target="_blank")
                 i(class="fas fa-file-pdf" aria-hidden="true")
                     span= theme.cv_dl.description
+        if(theme.cv_dl_zh.enable)
+            a.cv-links(href=url_for(theme.cv_dl_zh.dir) target="_blank")
+                i(class="fas fa-file-pdf" aria-hidden="true")
+                    span= theme.cv_dl_zh.description
