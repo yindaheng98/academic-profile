@@ -7,8 +7,8 @@ academia: true
 
 # About Me
 
-I am a graduate student at the Key Laboratory of Computer Network and Information Integration (Southeast University), advised by Prof. Fang Dong. 
-I obtained my Bachelor's degree from Jiangnan University in 2020. 
+I am a graduate student at the [Key Laboratory of Computer Network and Information Integration (Southeast University) Ministry of Education](https://cse.seu.edu.cn/edulab/), advised by [Prof. Fang Dong](https://cse.seu.edu.cn/2019/0102/c23024a256994/page.htm). 
+I obtained my Bachelor's degree from [Jiangnan University](https://www.jiangnan.edu.cn/) in 2020. 
 My research interests include optimization and application of video super-resolution.
 
 Currently, my research focuses on the distributed acceleration of super-resolution inference for live video streaming applications in an edge computing environment.
