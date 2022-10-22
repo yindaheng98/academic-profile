@@ -24,16 +24,16 @@ loading_bg:
 # 图标调用 font-awesome 4.7
 social:
   enable: true
-social_links:
+social_links: []
   #fab fa-twitter: /
   #fab fa-facebook-square: /
-  fab fa-github: https://github.com/yindaheng98
+  #fab fa-github: https://github.com/yindaheng98
   #fab fa-stack-overflow: /
   #fab fa-linkedin: /
   #fab fa-weibo: /
   #fab fa-weixin: /
   #fab fa-qq: /
-  fas fa-envelope: mailto:yindaheng98@seu.edu.cn
+  #fas fa-envelope: mailto:yindaheng98@seu.edu.cn
   #fas fa-rss: /  #rss
 
 # Additional social_links，额外添加自定义链接，可显示链接名称
@@ -41,8 +41,10 @@ social_links:
 e_social:
   enable: true
 e_social_links:
+  Github: https://github.com/yindaheng98 || fab fa-github
   Google Scholar: https://scholar.google.com/citations?user=XblbcSYAAAAJ&hl=zh-CN&oi=sra || fas fa-graduation-cap
   ORCID: https://orcid.org/0000-0002-9431-4240 || fab fa-orcid
+  Email: mailto:yindaheng98@seu.edu.cn || fas fa-envelope
 
 # CV download link
 cv_dl:
