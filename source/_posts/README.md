@@ -15,10 +15,10 @@ Currently, my research focuses on the distributed acceleration of super-resoluti
 In this scenario, the video super-resolution model should be able of performing inference in real-time (>30FPS) with low latency (<500ms) on the support of distributed low-power computing devices, while ensuring smooth playback in the dynamic environment with varying bandwidth between computing devices.
 To achieve this, various optimization strategies should be utilized, including:
 
-1. Modification of model structure for better parallelism
-2. Leverage information in compressed video for smooth playback
-3. Compression of parameters and intermediate features for bandwidth saving
-4. Variable frame sequence length for dynamic bandwidth adaption
+1. Modification of model structure for better parallelism: Divide typical video super-resolution model into independent modules for parallel feature extraction.
+2. Compression of intermediate features for bandwidth saving: Reduce the dimension of intermediate features, quantize features to INT8, and compress features with a video encoder such as H.264.
+3. Leverage information in compressed video for smooth playback: Modify the VP9 decoder to merge the low-framerate high-resolution video (from super-resolution inference) and high-framerate low-resolution video to produce high-framerate high-resolution video.
+4. Variable frame sequence length for dynamic bandwidth adaption: Dynamically adjust the sequence length of input frames to balance video quality and latency in dynamic bandwidth.
 
 My goal is to achieve that "distance can't keep us two apart (天涯若比邻)" by building systems that can obtain high-quality live video at low cost, as well as investigate the nature of AI system stability and even abstract chaotic systems in practice.
 
