@@ -12,7 +12,7 @@ I obtained my Bachelor's degree from [Jiangnan University](https://www.jiangnan.
 My research interests include optimization and application of video super-resolution.
 
 Currently, my research focuses on the distributed acceleration of super-resolution inference for live video streaming applications in an edge computing environment.
-In this scenario, the video super-resolution model should be able of performing inference in real-time (>30FPS) with low latency (<200ms) on the support of distributed low-power computing devices, while ensuring smooth playback in the dynamic environment with varying bandwidth between computing devices.
+In this scenario, the video super-resolution model should be able of performing inference in real-time (>30FPS) with low latency (<500ms) on the support of distributed low-power computing devices, while ensuring smooth playback in the dynamic environment with varying bandwidth between computing devices.
 To achieve this, various optimization strategies should be utilized, including:
 
 1. Modification of model structure for better parallelism
@@ -20,7 +20,7 @@ To achieve this, various optimization strategies should be utilized, including:
 3. Compression of parameters and intermediate features for bandwidth saving
 4. Variable frame sequence length for dynamic bandwidth adaption
 
-My goal is to build systems that can obtain high-resolution live video with low bandwidth and computational cost, as well as investigate the nature of AI system stability and even abstract chaotic systems in practice.
+My goal is to achieve that "distance can't keep us two apart (天涯若比邻)" by building systems that can obtain high-quality live video at low cost, as well as investigate the nature of AI system stability and even abstract chaotic systems in practice.
 
 # Education Experience
 
