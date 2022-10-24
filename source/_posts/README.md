@@ -20,7 +20,7 @@ To achieve this, various optimization strategies should be utilized, including:
 3. Leverage information in compressed video for smooth playback: Modify the VP9 decoder to merge the low-framerate high-resolution video (from super-resolution inference) and high-framerate low-resolution video to produce high-framerate high-resolution video.
 4. Variable frame sequence length for dynamic bandwidth adaption: Dynamically adjust the sequence length of input frames to balance video quality and latency in dynamic bandwidth.
 
-My goal is to achieve that "distance can't keep us two apart (天涯若比邻)" by building systems that can obtain high-quality live video at low cost, as well as investigate the nature of AI system stability and even abstract chaotic systems in practice.
+My goal is to build systems that can achieve high-quality video communication at a low cost for everyone, as well as investigate the nature of AI system stability and even abstract chaotic systems in practice.
 
 # Education Experience
 
