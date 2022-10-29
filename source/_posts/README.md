@@ -22,6 +22,12 @@ To achieve this, various optimization strategies should be utilized, including:
 
 My goal is to build systems that can achieve high-quality video communication at a low cost for everyone, as well as investigate the nature of AI system stability and even abstract chaotic systems in practice.
 
+# Research Interest
+
+* Edge computing & Cloud computing
+* Live video streaming
+* Application-driven deep learning algorithm optimization
+
 # Education Experience
 
 <dl>
