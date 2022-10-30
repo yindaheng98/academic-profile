@@ -82,12 +82,12 @@ blockquote
       color: black;
 
 @media (max-width: 40em)
-  .menus-open .menus_items
+  .menus-open .menus_items,.menus_items_right
     visibility visible
     opacity 1
     pointer-events auto
 
-  .menus_items
+  .menus_items,.menus_items_right
     visibility hidden
     opacity 0
     position: absolute;
@@ -157,7 +157,9 @@ blockquote
     transform: rotate3d(0, 0, 1, -45deg);
 
 @media (min-width: 40em)
-  .menus_items
+  .menus_items_right
+    float: right
+  .menus_items,.menus_items_right
     display inline-block
     list-style-type none
     margin 0
