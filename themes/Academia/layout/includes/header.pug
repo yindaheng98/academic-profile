@@ -5,17 +5,11 @@
         .navicon
     ul.menus_items
         each value, label in theme.menu
-            if !Array.isArray(value)
-                li.menus_item
-                    a.site-page(href=url_for(trim(value.split('||')[0])))=' ' + label
-            else
-                li.menus_item
-                    a.site-page=' ' + trim(label.split('||')[0])
+            li.menus_item
+                a.site-page=' ' + trim(label.split('||')[0]) + ' '
+                    i(class=trim(value.split('||')[1]) aria-hidden="true")
     ul.menus_items_right
         each value, label in theme.menu_right
-            if !Array.isArray(value)
-                li.menus_item
-                    a.site-page(href=url_for(trim(value.split('||')[0])))=' ' + label
-            else
-                li.menus_item
-                    a.site-page=' ' + trim(label.split('||')[0])
+            li.menus_item
+                a.site-page=' ' + trim(label.split('||')[0]) + ' '
+                    i(class=trim(value.split('||')[1]) aria-hidden="true")
