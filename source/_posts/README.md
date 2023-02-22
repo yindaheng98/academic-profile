@@ -45,9 +45,11 @@ My goal is to build systems that can achieve high-quality video communication at
 
 # Publications
 
-Xiaolin Guo, Fang Dong, Dian Shen, Zhaowu Huang, Zhenyang Ni, Yulong Jiang, **Daheng Yin**, "*Exploiting the computational path diversity with in-network computing for MEC*," 2022 19th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON), 2022, pp. 1-9.
+Baijun Chen, **Daheng Yin**, Lifei Teng, Fang Dong "*HyperRTV: Neural-Enhanced Adaptive Real-Time Video Streaming Based on Terminal-Edge Collaboration*," 2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD), 2023
 
-Mengyang Liu, Anran Tang, Huitian Wang, Lin Shen, Yunhan Chang, Guangxing Cai, **Daheng Yin**, Fang Dong, Wei Zhao, "*Accelerating Multi-Object Tracking in Edge Computing Environment with Time-Spatial Optimization*," 2021 Ninth International Conference on Advanced Cloud and Big Data (CBD), 2022, pp. 279-284, doi: 10.1109/CBD54617.2021.00055.
+Xiaolin Guo, Fang Dong, Dian Shen, Zhaowu Huang, Zhenyang Ni, Yulong Jiang, **Daheng Yin**, "*Exploiting the computational path diversity with in-network computing for MEC*," 2022 19th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON), 2022
+
+Mengyang Liu, Anran Tang, Huitian Wang, Lin Shen, Yunhan Chang, Guangxing Cai, **Daheng Yin**, Fang Dong, Wei Zhao, "*Accelerating Multi-Object Tracking in Edge Computing Environment with Time-Spatial Optimization*," 2021 Ninth International Conference on Advanced Cloud and Big Data (CBD), 2021
 
 # Contest
 
