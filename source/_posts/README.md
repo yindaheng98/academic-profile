@@ -40,7 +40,7 @@ My goal is to build systems that can achieve high-quality video communication at
 <dt>Jiangnan University, Wuxi, China</dt>
 <dd>August 2016 - July 2020</dd>
 <dd>B.E. in IoT Engineering</dd>
-<dd>GPA: 3.59, <strong>rank 9/141</strong>.</dd>
+<dd>GPA: 3.63, <strong>rank 9/141</strong>.</dd>
 </dl>
 
 # Publications
