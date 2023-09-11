@@ -7,8 +7,9 @@ academia: true
 
 # About Me
 
-I am a graduate student at the [Key Laboratory of Computer Network and Information Integration (Southeast University) Ministry of Education](https://cse.seu.edu.cn/edulab/), advised by [Prof. Fang Dong](https://cse.seu.edu.cn/2019/0102/c23024a256994/page.htm). 
-I obtained my Bachelor's degree from [Jiangnan University](https://www.jiangnan.edu.cn/) in 2020. 
+I am currently a PhD student at [Simon Fraser University](https://cse.seu.edu.cn/edulab/), advised by [Prof. Jiangchuan (JC) LIU](https://www.cs.sfu.ca/~jcliu/). 
+I received my Master's degree at [Southeast University](https://cse.seu.edu.cn/edulab/), advised by [Prof. Fang Dong](https://cse.seu.edu.cn/2019/0102/c23024a256994/page.htm),
+and my Bachelor's degree from [Jiangnan University](https://www.jiangnan.edu.cn/) in 2020, majoring in Internet of Things Engineering. 
 My research interests include optimization and application of video super-resolution.
 
 Currently, my research focuses on the distributed acceleration of super-resolution inference for live video streaming applications in an edge computing environment.
@@ -31,12 +32,15 @@ My goal is to build systems that can achieve high-quality video communication at
 # Education Experience
 
 <dl>
-<dt><img align="left" height="100" hspace="10" src="/img/SEUlogo.png"></dt>
+<dt><img align="left" width="100" hspace="10" src="/img/SFUlogo.png"></dt>
+<dt>Simon Fraser University, Burnaby, Canada</dt>
+<dd>August 2023 - </dd>
+<dt><img align="left" width="100" hspace="10" src="/img/SEUlogo.png"></dt>
 <dt>Southeast University, Nanjing, China</dt>
 <dd>August 2020 - July 2023</dd>
 <dd>B.Sc. in Computer Science and Engineering.</dd>
 <dd>GPA: 81.69.</dd>
-<dt><img align="left" height="100" hspace="10" src="/img/JNUlogo.png"></dt>
+<dt><img align="left" width="100" hspace="10" src="/img/JNUlogo.png"></dt>
 <dt>Jiangnan University, Wuxi, China</dt>
 <dd>August 2016 - July 2020</dd>
 <dd>B.E. in IoT Engineering</dd>
@@ -44,6 +48,8 @@ My goal is to build systems that can achieve high-quality video communication at
 </dl>
 
 # Publications
+
+**Daheng Yin**, Fang Dong, Baijun Chen, Dian Shen, Ruiting Zhou, Xiaolin Guo, Zhaowu Huang "*WAEVSR: Enabling Collaborative Live Video Super-Resolution in Wide-Area MEC Environment*," 2023 IEEE/ACM 31st International Symposium on Quality of Service (IWQoS), 2023
 
 Baijun Chen, **Daheng Yin**, Lifei Teng, Fang Dong "*HyperRTV: Neural-Enhanced Adaptive Real-Time Video Streaming Based on Terminal-Edge Collaboration*," 2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD), 2023
 
