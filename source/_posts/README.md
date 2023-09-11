@@ -34,17 +34,19 @@ My goal is to build systems that can achieve high-quality video communication at
 <dl>
 <dt><img align="left" width="100" hspace="10" src="/img/SFUlogo.png"></dt>
 <dt>Simon Fraser University, Burnaby, Canada</dt>
+<dd>Ph.D. in Computing Science.</dd>
 <dd>August 2023 - </dd>
+<dd>--------------------------------</dd>
 <dt><img align="left" width="100" hspace="10" src="/img/SEUlogo.png"></dt>
 <dt>Southeast University, Nanjing, China</dt>
+<dd>M.Eng. in Computer Science and Engineering.</dd>
 <dd>August 2020 - July 2023</dd>
-<dd>B.Sc. in Computer Science and Engineering.</dd>
-<dd>GPA: 81.69.</dd>
+<dd>--------------------------------</dd>
 <dt><img align="left" width="100" hspace="10" src="/img/JNUlogo.png"></dt>
 <dt>Jiangnan University, Wuxi, China</dt>
 <dd>August 2016 - July 2020</dd>
-<dd>B.E. in IoT Engineering</dd>
-<dd>GPA: 3.63, <strong>rank 9/141</strong>.</dd>
+<dd>B.Eng. in IoT Engineering</dd>
+<dd>GPA: 3.63, rank 9/141.</dd>
 </dl>
 
 # Publications
