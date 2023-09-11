@@ -3,7 +3,7 @@ favicon: /img/favicon.ico
 avatar: /img/profile.png
 # if author sets in hexo_config, this string doesn't work
 author: 'Howard Yin'
-author_bio: "Southeast University"
+author_bio: "Simon Fraser University"
 
 since: 2020
 
@@ -28,7 +28,7 @@ e_social_links:
   Github: https://github.com/yindaheng98 || fab fa-github
   Google Scholar: https://scholar.google.com/citations?user=XblbcSYAAAAJ&hl=zh-CN&oi=sra || fas fa-graduation-cap
   ORCID: https://orcid.org/0000-0002-9431-4240 || fab fa-orcid
-  Email: mailto:yindaheng98@seu.edu.cn || fas fa-envelope
+  Email: mailto:yindaheng98@gmail.com || fas fa-envelope
 
 # CV download link
 cv_dl:
