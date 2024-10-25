@@ -22,17 +22,17 @@ My goal is to build systems that can achieve high-quality multimedia communicati
 # Education Experience
 
 <dl>
-<dt><img align="left" width="100" hspace="10" src="/img/SFUlogo.png"></dt>
+<dt><img align="left" width="100" hspace="10" src="/img/SFUlogo.svg"></dt>
 <dt>Simon Fraser University, Burnaby, Canada</dt>
 <dd>Ph.D. in Computing Science.</dd>
 <dd>August 2023 - </dd>
 <dd>--------------------------------</dd>
-<dt><img align="left" width="100" hspace="10" src="/img/SEUlogo.png"></dt>
+<dt><img align="left" width="100" hspace="10" src="/img/SEUlogo.svg"></dt>
 <dt>Southeast University, Nanjing, China</dt>
 <dd>M.Eng. in Computer Science and Engineering.</dd>
 <dd>August 2020 - July 2023</dd>
 <dd>--------------------------------</dd>
-<dt><img align="left" width="100" hspace="10" src="/img/JNUlogo.png"></dt>
+<dt><img align="left" width="100" hspace="10" src="/img/JNUlogo.svg"></dt>
 <dt>Jiangnan University, Wuxi, China</dt>
 <dd>August 2016 - July 2020</dd>
 <dd>B.Eng. in IoT Engineering</dd>
