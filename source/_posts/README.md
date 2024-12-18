@@ -41,7 +41,7 @@ My goal is to build systems that can achieve high-quality multimedia communicati
 
 # Publications
 
-**Daheng Yin**, Jianxin Shi, Miao Zhang, Zhaowu Huang, Jiangchuan Liu, Fang Dong "*FSVFG: Towards Immersive Full-Scene Volumetric VideoStreaming with Adaptive Feature Grid*," 32nd ACM International Conference on Multimedia (MM'24), 24
+**Daheng Yin**, Jianxin Shi, Miao Zhang, Zhaowu Huang, Jiangchuan Liu, Fang Dong "*FSVFG: Towards Immersive Full-Scene Volumetric VideoStreaming with Adaptive Feature Grid*," 32nd ACM International Conference on Multimedia (MM'24), 2024
 
 **Daheng Yin**, Fang Dong, Baijun Chen, Dian Shen, Ruiting Zhou, Xiaolin Guo, Zhaowu Huang "*WAEVSR: Enabling Collaborative Live Video Super-Resolution in Wide-Area MEC Environment*," IEEE/ACM 31st International Symposium on Quality of Service (IWQoS), 2023
 
