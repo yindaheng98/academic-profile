@@ -14,7 +14,7 @@ menu:
   Publications: /#Publications ||
   Blog: http://www.yindaheng98.top || fas fa-external-link-alt
 menu_right:
-  About: /About/index.html ||
+  About: https://github.com/yindaheng98 ||
 
 # flink picture will load if avator link calls on error
 loading_bg:
