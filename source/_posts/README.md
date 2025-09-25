@@ -73,8 +73,8 @@ Ninth International Conference on Advanced Cloud and Big Data (CBD), 2021
 
 * TensorRT Hackathon 2022, **Winner Prize**, <small>by NVIDIA & Alibaba Cloud TIANCHI, 2022.03 - 2022.5</small>
 * TensorRT Hackathon 2021, **Ranking 4/48**, <small>by NVIDIA & Alibaba Cloud TIANCHI, 2021.03 - 2021.5</small>
-* National College Mathematical Contest in Modeling, **2nd Prize(National)**, <small>2018.09</small>
-* 9th National College Mathematical Contest, **2nd Prize(Provincial)**, <small>2017.11</small>
+* National College Mathematical Contest in Modeling, **2nd Prize (National)**, <small>2018.09</small>
+* 9th National College Mathematical Contest, **2nd Prize (Provincial)**, <small>2017.11</small>
 * 14th Jiangsu College Mathematical Contest, **1st Prize**, <small>2017.05</small>
 
 # Honors & Awards
