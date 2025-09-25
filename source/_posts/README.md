@@ -7,9 +7,9 @@ academia: true
 
 # About Me
 
-I am currently a PhD student at [Simon Fraser University](https://cse.seu.edu.cn/edulab/), advised by [Prof. Jiangchuan (JC) LIU](https://www.cs.sfu.ca/~jcliu/). 
+I am a PhD student at [Simon Fraser University](https://cse.seu.edu.cn/edulab/), advised by [Prof. Jiangchuan (JC) LIU](https://www.cs.sfu.ca/~jcliu/). 
 I received my Master's degree at [Southeast University](https://cse.seu.edu.cn/edulab/), advised by [Prof. Fang Dong](https://cse.seu.edu.cn/2019/0102/c23024a256994/page.htm),
-and my Bachelor's degree from [Jiangnan University](https://www.jiangnan.edu.cn/) in 2020, majoring in Internet of Things Engineering. 
+and my Bachelor's degree from [Jiangnan University](https://www.jiangnan.edu.cn/) in 2020, advised by [Prof. Ya Guo](https://iot.jiangnan.edu.cn/info/1141/3512.htm).
 My research interests include optimization and application of multimedia systems.
 My goal is to build systems that can achieve high-quality multimedia communication at a low cost for everyone, as well as investigate the nature of AI system in practice.
 
@@ -35,7 +35,7 @@ My goal is to build systems that can achieve high-quality multimedia communicati
 <dt><img align="left" width="100" hspace="10" src="/img/JNUlogo.svg"></dt>
 <dt>Jiangnan University, Wuxi, China</dt>
 <dd>August 2016 - July 2020</dd>
-<dd>B.Eng. in IoT Engineering</dd>
+<dd>B.Eng. in Internet of Things (IoT) Engineering</dd>
 <dd>GPA: 3.63, rank 9/141.</dd>
 </dl>
 
@@ -50,7 +50,7 @@ Zhaowu Huang, Fang Dong, Xiaolin Guo, **Daheng Yin**
 IEEE International Conference on Computer Communications (INFOCOM), 2025
 
 **Daheng Yin**, Jianxin Shi, Miao Zhang, Zhaowu Huang, Jiangchuan Liu, Fang Dong
-"*[FSVFG: Towards Immersive Full-Scene Volumetric VideoStreaming with Adaptive Feature Grid](./FSVFG2024ACMMultimedia.pdf)*,"
+"*[FSVFG: Towards Immersive Full-Scene Volumetric Video Streaming with Adaptive Feature Grid](./FSVFG2024ACMMultimedia.pdf)*,"
 32nd ACM International Conference on Multimedia (MM'24), 2024
 
 **Daheng Yin**, Fang Dong, Baijun Chen, Dian Shen, Ruiting Zhou, Xiaolin Guo, Zhaowu Huang
