@@ -41,17 +41,33 @@ My goal is to build systems that can achieve high-quality multimedia communicati
 
 # Publications
 
-Zhaowu Huang, Fang Dong, Xiaolin Guo, **Daheng Yin**, "*FaSei: Fast Serverless Edge Inference with Synergistic Lazy Loading and Layer-wise Caching*," IEEE International Conference on Computer Communications (IMFOCOM), 2025
+**Daheng Yin**, Isaac Ding, Yili Jin, Jianxin Shi, Jiangchuan Liu
+"*[TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction](./TrackerSplat2025SIGGRAPHAsia.pdf)*,"
+SIGGRAPH Asia 2025 Conference Papers (SA'24), 2025
 
-**Daheng Yin**, Jianxin Shi, Miao Zhang, Zhaowu Huang, Jiangchuan Liu, Fang Dong "*[FSVFG: Towards Immersive Full-Scene Volumetric VideoStreaming with Adaptive Feature Grid](./FSVFG2024ACMMultimedia.pdf)*," 32nd ACM International Conference on Multimedia (MM'24), 2024
+Zhaowu Huang, Fang Dong, Xiaolin Guo, **Daheng Yin**
+"*FaSei: Fast Serverless Edge Inference with Synergistic Lazy Loading and Layer-wise Caching*,"
+IEEE International Conference on Computer Communications (INFOCOM), 2025
 
-**Daheng Yin**, Fang Dong, Baijun Chen, Dian Shen, Ruiting Zhou, Xiaolin Guo, Zhaowu Huang "*WAEVSR: Enabling Collaborative Live Video Super-Resolution in Wide-Area MEC Environment*," IEEE/ACM 31st International Symposium on Quality of Service (IWQoS), 2023
+**Daheng Yin**, Jianxin Shi, Miao Zhang, Zhaowu Huang, Jiangchuan Liu, Fang Dong
+"*[FSVFG: Towards Immersive Full-Scene Volumetric VideoStreaming with Adaptive Feature Grid](./FSVFG2024ACMMultimedia.pdf)*,"
+32nd ACM International Conference on Multimedia (MM'24), 2024
 
-Baijun Chen, **Daheng Yin**, Lifei Teng, Fang Dong "*HyperRTV: Neural-Enhanced Adaptive Real-Time Video Streaming Based on Terminal-Edge Collaboration*," 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD), 2023
+**Daheng Yin**, Fang Dong, Baijun Chen, Dian Shen, Ruiting Zhou, Xiaolin Guo, Zhaowu Huang
+"*WAEVSR: Enabling Collaborative Live Video Super-Resolution in Wide-Area MEC Environment*,"
+IEEE/ACM 31st International Symposium on Quality of Service (IWQoS), 2023
 
-Xiaolin Guo, Fang Dong, Dian Shen, Zhaowu Huang, Zhenyang Ni, Yulong Jiang, **Daheng Yin**, "*Exploiting the computational path diversity with in-network computing for MEC*," 19th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON), 2022
+Baijun Chen, **Daheng Yin**, Lifei Teng, Fang Dong
+"*HyperRTV: Neural-Enhanced Adaptive Real-Time Video Streaming Based on Terminal-Edge Collaboration*,"
+26th International Conference on Computer Supported Cooperative Work in Design (CSCWD), 2023
 
-Mengyang Liu, Anran Tang, Huitian Wang, Lin Shen, Yunhan Chang, Guangxing Cai, **Daheng Yin**, Fang Dong, Wei Zhao, "*Accelerating Multi-Object Tracking in Edge Computing Environment with Time-Spatial Optimization*," Ninth International Conference on Advanced Cloud and Big Data (CBD), 2021
+Xiaolin Guo, Fang Dong, Dian Shen, Zhaowu Huang, Zhenyang Ni, Yulong Jiang, **Daheng Yin**
+"*Exploiting the computational path diversity with in-network computing for MEC*,"
+19th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON), 2022
+
+Mengyang Liu, Anran Tang, Huitian Wang, Lin Shen, Yunhan Chang, Guangxing Cai, **Daheng Yin**, Fang Dong, Wei Zhao
+"*Accelerating Multi-Object Tracking in Edge Computing Environment with Time-Spatial Optimization*,"
+Ninth International Conference on Advanced Cloud and Big Data (CBD), 2021
 
 # Contest
 
