@@ -11,13 +11,13 @@ I am a PhD student at [Simon Fraser University](https://cse.seu.edu.cn/edulab/),
 I received my Master's degree at [Southeast University](https://cse.seu.edu.cn/edulab/), advised by [Prof. Fang Dong](https://cse.seu.edu.cn/2019/0102/c23024a256994/page.htm),
 and my Bachelor's degree from [Jiangnan University](https://www.jiangnan.edu.cn/) in 2020, advised by [Prof. Ya Guo](https://iot.jiangnan.edu.cn/info/1141/3512.htm).
 My research interests include optimization and application of multimedia systems.
-My goal is to build systems that can achieve high-quality multimedia communication at a low cost for everyone, as well as investigate the nature of AI system in practice.
+My goal is to build systems that can achieve high-quality multimedia communication at a low cost for everyone.
 
 # Research Interest
 
-* Edge computing & Cloud computing
 * Live video streaming
-* Application-driven deep learning algorithm optimization
+* Volumetric Video
+* Edge computing & Cloud computing
 
 # Education Experience
 
