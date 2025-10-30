@@ -15,9 +15,9 @@ My goal is to build systems that can achieve high-quality multimedia communicati
 
 # Research Interest
 
-* Live video streaming
+* Video Streaming
 * Volumetric Video
-* Edge computing & Cloud computing
+* Edge Computing & Cloud Computing
 
 # Education Experience
 
