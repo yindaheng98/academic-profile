@@ -14,9 +14,7 @@ I design practical systems for photorealistic volumetric video reconstruction an
 
 # Research Interest
 
-* Video Streaming
-* Volumetric Video
-* Edge Computing & Cloud Computing
+![](/img/Roadmap.png)
 
 # Education Experience
 
@@ -41,7 +39,7 @@ I design practical systems for photorealistic volumetric video reconstruction an
 # Publications
 
 **Daheng Yin**, Isaac Ding, Yili Jin, Jianxin Shi, Jiangchuan Liu
-"*[TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction](https://doi.org/10.1145/3757377.3763829)*,"
+"*[**TrackerSplat**: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction](https://doi.org/10.1145/3757377.3763829)*,"
 SIGGRAPH Asia 2025 Conference Papers (SA'24), 2025
 
 Zhaowu Huang, Fang Dong, Xiaolin Guo, **Daheng Yin**
@@ -49,7 +47,7 @@ Zhaowu Huang, Fang Dong, Xiaolin Guo, **Daheng Yin**
 IEEE International Conference on Computer Communications (INFOCOM), 2025
 
 **Daheng Yin**, Jianxin Shi, Miao Zhang, Zhaowu Huang, Jiangchuan Liu, Fang Dong
-"*[FSVFG: Towards Immersive Full-Scene Volumetric Video Streaming with Adaptive Feature Grid](https://doi.org/10.1145/3664647.3680908)*,"
+"*[**FSVFG**: Towards Immersive Full-Scene Volumetric Video Streaming with Adaptive Feature Grid](https://doi.org/10.1145/3664647.3680908)*,"
 32nd ACM International Conference on Multimedia (MM'24), 2024
 
 **Daheng Yin**, Fang Dong, Baijun Chen, Dian Shen, Ruiting Zhou, Xiaolin Guo, Zhaowu Huang
