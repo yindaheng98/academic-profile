@@ -10,8 +10,7 @@ academia: true
 I am a PhD student at [Simon Fraser University](https://cse.seu.edu.cn/edulab/), advised by [Prof. Jiangchuan (JC) LIU](https://www.cs.sfu.ca/~jcliu/). 
 I received my Master's degree at [Southeast University](https://cse.seu.edu.cn/edulab/), advised by [Prof. Fang Dong](https://cse.seu.edu.cn/2019/0102/c23024a256994/page.htm),
 and my Bachelor's degree from [Jiangnan University](https://www.jiangnan.edu.cn/) in 2020, advised by [Prof. Ya Guo](https://iot.jiangnan.edu.cn/info/1141/3512.htm).
-My research interests include optimization and application of multimedia systems.
-My goal is to build systems that can achieve high-quality multimedia communication at a low cost for everyone.
+I design practical systems for photorealistic volumetric video reconstruction and transmission, targeting downstream applications in 3D scene understanding, embodied intelligence, and immersive volumetric telepresence.
 
 # Research Interest
 
