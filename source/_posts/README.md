@@ -38,9 +38,13 @@ I design practical systems for photorealistic volumetric video reconstruction an
 
 # Publications
 
+**Daheng Yin**, Yili Jin, Jianxin Shi, Isaac Ding, Miao Zhang, Fangxin Wang, Zhaowu Huang, Cong Zhang, Jiangchuan Liu, Fang Dong
+"*[**CAGS**: Color-Adaptive Volumetric Video Streaming with Dynamic 3D Gaussian Splatting](./CAGSSIGGRAPH2026.pdf)*,"
+SIGGRAPH 2026 Conference Papers (SIGGRAPH'26), 2026
+
 **Daheng Yin**, Isaac Ding, Yili Jin, Jianxin Shi, Jiangchuan Liu
 "*[**TrackerSplat**: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction](https://doi.org/10.1145/3757377.3763829)*,"
-SIGGRAPH Asia 2025 Conference Papers (SA'24), 2025
+SIGGRAPH Asia 2025 Conference Papers (SA'25), 2025
 
 Zhaowu Huang, Fang Dong, Xiaolin Guo, **Daheng Yin**
 "*FaSei: Fast Serverless Edge Inference with Synergistic Lazy Loading and Layer-wise Caching*,"
