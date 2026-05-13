@@ -8,7 +8,7 @@ academia: true
 # About Me
 
 I am a PhD student at [Simon Fraser University](https://cse.seu.edu.cn/edulab/), advised by [Prof. Jiangchuan (JC) LIU](https://www.cs.sfu.ca/~jcliu/). 
-I received my Master's degree at [Southeast University](https://cse.seu.edu.cn/edulab/), advised by [Prof. Fang Dong](https://cse.seu.edu.cn/2019/0102/c23024a256994/page.htm),
+I received my Master's degree at [Southeast University](https://cse.seu.edu.cn/edulab/), advised by [Prof. Fang Dong](https://cs.seu.edu.cn/fdong/main.htm),
 and my Bachelor's degree from [Jiangnan University](https://www.jiangnan.edu.cn/) in 2020, advised by [Prof. Ya Guo](https://iot.jiangnan.edu.cn/info/1141/3512.htm).
 I design practical systems for photorealistic volumetric video reconstruction and transmission, targeting downstream applications in 3D scene understanding, embodied intelligence, and immersive volumetric telepresence.
 
