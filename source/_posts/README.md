@@ -38,6 +38,8 @@ I design practical systems for photorealistic volumetric video reconstruction an
 
 # Publications
 
+## Conferences
+
 **Daheng Yin**, Yili Jin, Jianxin Shi, Isaac Ding, Miao Zhang, Fangxin Wang, Zhaowu Huang, Cong Zhang, Jiangchuan Liu, Fang Dong
 "*[**CAGS**: Color-Adaptive Volumetric Video Streaming with Dynamic 3D Gaussian Splatting](https://arxiv.org/abs/2605.09279)*,"
 SIGGRAPH 2026 Conference Papers (SIGGRAPH'26), 2026, [GitHub repo](https://github.com/yindaheng98/ColorAdaptiveGaussianSplatting)
@@ -69,6 +71,11 @@ Xiaolin Guo, Fang Dong, Dian Shen, Zhaowu Huang, Zhenyang Ni, Yulong Jiang, **Da
 Mengyang Liu, Anran Tang, Huitian Wang, Lin Shen, Yunhan Chang, Guangxing Cai, **Daheng Yin**, Fang Dong, Wei Zhao
 "*Accelerating Multi-Object Tracking in Edge Computing Environment with Time-Spatial Optimization*,"
 Ninth International Conference on Advanced Cloud and Big Data (CBD), 2021
+
+## Journals
+
+Isaac Ding, **Daheng Yin**, Yili Jin, Rongsheng Qian, Jiangchuan Liu, and Xue Liu
+"*[GSAlign: Optical Alignment for Photorealistic Dynamic 3D Reconstruction from UGC in Web3](https://dl.acm.org/doi/10.1145/3820054)*," ACM Transactions on Multimedia Computing, Communications and Applications. Just Accepted (June 2026).
 
 # Open-source Projects
 
