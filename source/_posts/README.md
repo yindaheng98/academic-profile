@@ -75,7 +75,7 @@ Ninth International Conference on Advanced Cloud and Big Data (CBD), 2021
 ## Journals
 
 Isaac Ding, **Daheng Yin**, Yili Jin, Rongsheng Qian, Jiangchuan Liu, and Xue Liu
-"*[GSAlign: Optical Alignment for Photorealistic Dynamic 3D Reconstruction from UGC in Web3](https://dl.acm.org/doi/10.1145/3820054)*," ACM Transactions on Multimedia Computing, Communications and Applications. Just Accepted (June 2026).
+"*[GSAlign: Optical Alignment for Photorealistic Dynamic 3D Reconstruction from UGC in Web3](https://dl.acm.org/doi/10.1145/3820054)*," ACM Transactions on Multimedia Computing, Communications and Applications. Accepted on 31 March 2026.
 
 # Open-source Projects
 
