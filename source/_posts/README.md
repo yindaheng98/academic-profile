@@ -52,6 +52,10 @@ Zhaowu Huang, Fang Dong, Xiaolin Guo, **Daheng Yin**
 "*FaSei: Fast Serverless Edge Inference with Synergistic Lazy Loading and Layer-wise Caching*,"
 IEEE International Conference on Computer Communications (INFOCOM), 2025
 
+Xiaolin Guo, Fang Dong, Dian Shen, Zhaowu Huang, Baijun Chen, **Daheng Yin**
+"*Rendering Super Resolution Video Streaming Efficiently with in-Network Computing*,"
+IEEE International Conference on High Performance Computing and Communications (HPCC), 2024
+
 **Daheng Yin**, Jianxin Shi, Miao Zhang, Zhaowu Huang, Jiangchuan Liu, Fang Dong
 "*[**FSVFG**: Towards Immersive Full-Scene Volumetric Video Streaming with Adaptive Feature Grid](https://doi.org/10.1145/3664647.3680908)*,"
 32nd ACM International Conference on Multimedia (MM'24), 2024
