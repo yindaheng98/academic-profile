@@ -41,7 +41,7 @@ I design practical systems for photorealistic volumetric video reconstruction an
 ## Conferences
 
 **Daheng Yin**, Yili Jin, Jianxin Shi, Isaac Ding, Miao Zhang, Fangxin Wang, Zhaowu Huang, Cong Zhang, Jiangchuan Liu, Fang Dong
-"*[**CAGS**: Color-Adaptive Volumetric Video Streaming with Dynamic 3D Gaussian Splatting](https://arxiv.org/abs/2605.09279)*,"
+"*[**CAGS**: Color-Adaptive Volumetric Video Streaming with Dynamic 3D Gaussian Splatting](https://dl.acm.org/doi/10.1145/3799902.3811058)*,"
 SIGGRAPH 2026 Conference Papers (SIGGRAPH'26), 2026, [GitHub repo](https://github.com/yindaheng98/ColorAdaptiveGaussianSplatting)
 
 **Daheng Yin**, Isaac Ding, Yili Jin, Jianxin Shi, Jiangchuan Liu
